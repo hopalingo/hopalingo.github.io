@@ -4,8 +4,13 @@ Hopalingo offers an engaging and effective approach to learning coding languages
 
 Please note, this app is exclusive to Hopscotch and AwesomeE’s web player.
 
-<a href="https://hopalingo.github.io/redirects/play" class="button big">Well, what are you waiting for? Click here to load Hopalingo!</a>
+<code style="color : green"><a href="https://hopalingo.github.io/redirects/play" class="button big">Well, what are you waiting for? Click here to load Hopalingo!</a></code>
 
 # Update Log
 ## v0.00 - idk
 added nothing
+
+# Status
+Due to this being in a draft, we will have downtime while working on new courses. This is so we are able to produce an enjoyable time for you learning code.
+
+Status: <code style="color : green">Online!</code>
