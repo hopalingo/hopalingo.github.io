@@ -1,0 +1,72 @@
+// Typefaces
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:400,700';
+
+// Colors
+
+// Styles
+body {
+	background: #EEEEEE;
+}
+
+#leaderboard {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.Leaderboard {
+	font-family: 'Roboto Mono', monospace;
+	width: 400px;
+	background: #FFFFFF;
+	box-shadow: 0 5px 10px -5px rgba(black, .2);
+	
+	.Title {
+		padding: 20px;
+		background: #121212;
+		color: white;
+		font-weight: 700;
+		text-transform: uppercase;
+		text-align: center;
+	}
+	
+	ul {
+		padding: 20px;
+	}
+	
+	.Person {
+		align-items: center;
+		background-size: cover;
+		display: flex;
+		margin-bottom: 10px;
+		
+		&:first-child {
+			margin-bottom: 15px;
+			.Image {
+				transform: scale(1.15);
+			}
+		}
+		
+		&:last-child {
+			margin-bottom: 0;
+		}
+		
+		.Image {
+			height: 44px;
+			width: 44px;
+			background: orange;
+			border-radius: 44px;
+			transform: scale(.9);
+		}
+		
+		.Name {
+			margin-left: 10px;
+		}
+		
+		.Score {
+			margin-left: auto;
+			font-weight: 700;
+		}
+	}
+	
+}
