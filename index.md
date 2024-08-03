@@ -1,3 +1,5 @@
 Hopalingo offers an engaging and effective approach to learning coding languages through its interactive and practical exercises. By providing a hands-on learning environment and immediate feedback, it helps users quickly grasp and apply programming concepts. Gamification elements and progress tracking further enhance motivation and commitment. Additionally, access to a supportive community and mentors fosters collaborative problem-solving and deeper understanding.
 
 Please note, this app is exclusive to Hopscotch and AwesomeE’s web player.
+
+https://hopalingo.github.io/images/teaser1.png
