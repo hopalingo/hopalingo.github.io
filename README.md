@@ -1,1 +1,1 @@
-# hopalingo.github.io
+Welcome to Hopalingo!
