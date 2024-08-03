@@ -1,20 +1,21 @@
 const data = {
   title: 'Hopalingo Streak Leaderboard',
   people: [
-  {
-    name: 'Ezra',
-    image: 'http://lorempixel.com/100/100',
-    score: 2000 },
-
-  {
-    name: 'Noah',
-    image: 'http://lorempixel.com/120/120',
-    score: 2050 },
-
-  };
-
-
-
+ {
+			name: 'alex',
+			image: 'http://lorempixel.com/100/100',
+			score: 45
+		},
+		{
+			name: 'noah',
+			image: 'http://lorempixel.com/120/120',
+			score: 1
+		},
+		{
+			name: 'ezra',
+			image: 'http://lorempixel.com/101/101',
+			score: 2
+		};
 
 let Leaderboard = React.createClass({ displayName: "Leaderboard",
   getInitialState: function () {
