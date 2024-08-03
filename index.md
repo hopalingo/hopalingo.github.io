@@ -14,3 +14,10 @@ added nothing
 Due to this being in a draft, we will have downtime while working on new courses. This is so we are able to produce an enjoyable time for you learning code.
 
 Status: <code style="color : green">Online!</code>
+
+# What they said about us.
+> idk how to code
+
+> whats hopalingo
+
+> how do i close the app
