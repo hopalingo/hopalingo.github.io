@@ -7,5 +7,5 @@ Please note, this app is exclusive to Hopscotch and AwesomeE’s web player.
 <a href="https://hopalingo.github.io/redirect" class="button big">Well, what are you waiting for? Click here to load Hopalingo!</a>
 
 # Update Log
-##v0.00 - idk
+## v0.00 - idk
 added nothing
